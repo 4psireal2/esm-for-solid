@@ -1,0 +1,31 @@
+
+/home/nguyed99/Documents/POSCAR-graphene
+====================================================================================
+Title               graphene
+
+Lattice type        P
+Space group name    P 1
+Space group number  1
+Setting number      1
+
+Lattice parameters
+
+   a        b        c       alpha    beta     gamma
+ 2.46395  2.46395 24.64000  90.0000  90.0000  60.0015
+
+Unit-cell volume = 129.550778 Å^3
+
+Structure parameters
+
+                       x          y          z          Occ.     U    Site      Sym.
+   1 C   C1          0.33000    0.33000    0.50000    1.000    0.000    1a         1
+   2 C   C2          0.66000    0.66000    0.50000    1.000    0.000    1a         1
+====================================================================================
+
+Number of polygons and unique vertices on isosurface = 0 (0)
+4 atoms, 3 bonds, 1 polyhedra; CPU time = 0 ms
+
+24 atoms, 27 bonds, 9 polyhedra; CPU time = 1 ms
+
+24 atoms, 27 bonds, 9 polyhedra; CPU time = 1 ms
+

@@ -1,0 +1,39 @@
+INCAR
+POSCAR - structure
+POTKAR - basis
+K-POINTS - k-mesh
+
+title
+parameter (lattice constant)
+	ax  ay  az # basis vectors
+	bx  by  bz
+	cy  cy  cz
+atom types
+number of atoms
+direct
+	coordinates
+
+-----------------------
+Ex: cubic structure
+5.0
+	1.0  0.0  0.0
+	0.0  1.0  0.0
+	0.0  0.0  1.0
+Ca
+1
+direct
+	0.0  0.0  0.0 # coordinate of atoms with respect to basis vector
+
+VESTA - for visualisation
+
+-----------------------
+Ex: cubic structure
+5.0
+	1.0  0.0  0.0
+	0.0  1.0  0.0
+	0.0  0.0  1.0
+Cl  Cs
+1   1
+direct
+	0.0  0.0  0.0
+	0.5  0.5  0.5
