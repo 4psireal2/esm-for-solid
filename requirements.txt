@@ -1,2 +1,5 @@
 ase==3.22.0
 nglview==3.0.3
+ipython==8.3.0
+numpy==1.20.2
+pymatgen==2022.4.26
